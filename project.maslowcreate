@@ -2,6 +2,66 @@
     "molecules": [
         {
             "atomType": "Molecule",
+            "name": "Bolt",
+            "x": 214,
+            "y": 62,
+            "uniqueID": 640474,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 163.5,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Plate",
+            "x": 215,
+            "y": 130,
+            "uniqueID": 113242,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 163.5,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Nut",
+            "x": 222,
+            "y": 200,
+            "uniqueID": 777989,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 163.5,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Joint Connector",
             "x": 0,
             "y": 0,
@@ -9,6 +69,30 @@
             "ioValues": [],
             "topLevel": true,
             "allAtoms": [
+                {
+                    "atomType": "Molecule",
+                    "name": "Bolt",
+                    "x": 214,
+                    "y": 62,
+                    "uniqueID": 640474,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Plate",
+                    "x": 215,
+                    "y": 130,
+                    "uniqueID": 113242,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Nut",
+                    "x": 222,
+                    "y": 200,
+                    "uniqueID": 777989,
+                    "ioValues": []
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
