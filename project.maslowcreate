@@ -47,7 +47,7 @@
                             "ioValue": 30
                         }
                     ],
-                    "currentEquation": "S+(35/2)"
+                    "currentEquation": "S+(35/2)+4"
                 },
                 {
                     "atomType": "Rectangle",
@@ -96,7 +96,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 47.5
+                            "ioValue": 51.5
                         },
                         {
                             "name": "yDist",
