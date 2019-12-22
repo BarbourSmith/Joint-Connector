@@ -7,15 +7,6 @@
 ## Joint Connector
 
 
-## Bolt
-
-
-undefined
-
-
-## Plate
-
-
 ## Nut
 
 
@@ -23,5 +14,14 @@ undefined
 
 
 ## Keep Out
+
+
+## Plate
+
+
+## Bolt
+
+
+undefined
 
 
