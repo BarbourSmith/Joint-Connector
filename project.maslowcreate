@@ -47,7 +47,7 @@
                             "ioValue": 30
                         }
                     ],
-                    "currentEquation": "S+(35/2)+3"
+                    "currentEquation": "S+(35/2)"
                 },
                 {
                     "atomType": "Rectangle",
@@ -96,7 +96,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 50.5
+                            "ioValue": 47.5
                         },
                         {
                             "name": "yDist",
@@ -192,7 +192,7 @@
                     "y": 68,
                     "uniqueID": 477543,
                     "ioValues": [],
-                    "selectedColorIndex": "10"
+                    "selectedColorIndex": "12"
                 },
                 {
                     "atomType": "Output",
