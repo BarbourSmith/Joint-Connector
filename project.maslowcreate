@@ -9,7 +9,7 @@
             "ioValues": [
                 {
                     "name": "Spacing",
-                    "ioValue": 40
+                    "ioValue": 30
                 }
             ],
             "topLevel": false,
@@ -44,7 +44,7 @@
                     "ioValues": [
                         {
                             "name": "S",
-                            "ioValue": 40
+                            "ioValue": 30
                         }
                     ],
                     "currentEquation": "S+(35/2)"
@@ -96,7 +96,7 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 57.5
+                            "ioValue": 47.5
                         },
                         {
                             "name": "yDist",
@@ -835,7 +835,7 @@
             "ioValues": [
                 {
                     "name": "Spacing",
-                    "ioValue": 40
+                    "ioValue": 30
                 }
             ],
             "topLevel": true,
@@ -857,7 +857,7 @@
                     "ioValues": [
                         {
                             "name": "S",
-                            "ioValue": 40
+                            "ioValue": 30
                         }
                     ],
                     "currentEquation": "-1*S"
@@ -871,7 +871,7 @@
                     "ioValues": [
                         {
                             "name": "Spacing",
-                            "ioValue": 40
+                            "ioValue": 30
                         }
                     ]
                 },
@@ -921,7 +921,7 @@
                     "ioValues": [
                         {
                             "name": "S",
-                            "ioValue": -40
+                            "ioValue": -30
                         }
                     ],
                     "currentEquation": "S-3"
@@ -964,7 +964,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": -40
+                            "ioValue": -30
                         }
                     ]
                 },
@@ -985,7 +985,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": -43
+                            "ioValue": -33
                         }
                     ]
                 },
@@ -1021,8 +1021,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 991,
-                    "y": 110,
+                    "x": 990,
+                    "y": 92,
                     "uniqueID": 697445,
                     "ioValues": [
                         {
